@@ -1,6 +1,6 @@
 {
-  "name": "TC-Sakura App Icons 120px",
-  "description": "App icons from TC-Sakura/IconResource (120px). Source: https://github.com/TC-Sakura/IconResource/tree/main/App_icon/120px",
+  "name": "AppIcons",
+  "description": "App图标",
   "icons": [
     {
       "name": "1.1.1.1",
